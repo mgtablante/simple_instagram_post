@@ -1,0 +1,59 @@
+body{
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.post{
+    padding: 0.2rem 0.2rem;
+}
+.container{
+    background-color: white;
+    width: 25rem;
+    height: 37rem;
+    margin: auto;
+    margin-top: 5rem;
+}
+.logoHtml{
+    font-size: 35px;
+    float: left;
+    padding: 12px;
+}
+    
+.tittleCard{
+    font-size: 0.7rem;
+    margin-top: -4%; 
+}
+/* .tittleHtml{
+   margin-top: -4%; 
+} */
+.numberCard{
+    float: right;
+    margin-top: -15%; 
+    padding: 1rem;
+}
+.imagen{
+    width: 25rem; 
+    height: 20rem;
+   }
+.icons{ 
+    float:left;  
+    padding: 1rem;
+    font-size: 1.3rem;
+}
+.save{
+    float: right;
+    padding: 1rem;
+}
+ 
+.likes{
+    font-size: 0.9rem;
+    float:left;    
+    padding: 1rem;
+    margin-top: -4%;    
+
+}
+.description{
+    font-size: 0.8rem;
+    padding: 1rem;
+    float:left;
+    margin-top: -5%;    
+}
